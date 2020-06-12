@@ -1,5 +1,5 @@
 .bg-image {
-    background: url('../img/background.jpg');
+    background: url('../img/banner-fundo.png');
 }
 
 .jumbotron {
@@ -9,7 +9,8 @@
 }
 
 .article-images {
-    width: 100%;
+    max-width: 500px;
+    max-height: 500px;
 }
 
 .brand-icon {
