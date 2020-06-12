@@ -1,16 +1,22 @@
+
+
 .bg-image {
     background: url('../img/banner-fundo.png');
+    
+    
 }
 
 .jumbotron {
     background-color: rgba(0, 0, 0, 0.5);
     -webkit-backdrop-filter: blur(4px);
-    backdrop-filter: blur(4px);  
+    backdrop-filter: blur(4px); 
+     
 }
 
 .article-images {
     max-width: 500px;
     max-height: 500px;
+    
 }
 
 .brand-icon {
